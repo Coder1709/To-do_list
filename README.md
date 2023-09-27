@@ -74,3 +74,6 @@ Firestore is a NoSQL cloud database provided by Firebase, a comprehensive mobile
 
 <h2>Rules</h2>
 Firestore rules are essential for securing and controlling access to your Firestore database in Firebase. These rules define who can read or write data and under what conditions. They are written using a declarative language that allows you to specify access based on user authentication, data structure, or specific conditions. Firestore rules help prevent unauthorized access to your data and ensure that only authenticated users with the appropriate permissions can interact with the database. Properly configured rules play a crucial role in maintaining the integrity and security of your Firestore database in Firebase.
+
+<h1><mark>Error While Creating a To-do</mark></h1>
+<p> As firebase  is new and its still developing we get updates every weeks and sometime i cant change it to the real time As well as the FireStore Rules Expires Every 30days so it takes some time to set it up if you are getting any error please message me on linkdin or gmail i will resolve the error</p>
